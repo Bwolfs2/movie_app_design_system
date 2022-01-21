@@ -8,10 +8,12 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  dependencies:
-    path: ../dependencies
-  core:
-    path: ../core
+  movie_app_dependencies:
+    git:
+      url: https://github.com/Bwolfs2/movie_app_dependencies.git
+  movie_app_core:
+    git:
+      url: https://github.com/Bwolfs2/movie_app_core.git
   flutter:
     sdk: flutter
 

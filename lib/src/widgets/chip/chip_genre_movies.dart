@@ -1,5 +1,5 @@
-import 'package:core/core.dart';
 import 'package:flutter/material.dart';
+import 'package:movie_app_core/movie_app_core.dart';
 
 import '../../../movie_app_design_system.dart';
 

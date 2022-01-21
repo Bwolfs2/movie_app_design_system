@@ -148,13 +148,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.1"
-  core:
-    dependency: "direct main"
-    description:
-      path: "../core"
-      relative: true
-    source: path
-    version: "0.0.1"
   coverage:
     dependency: transitive
     description:
@@ -183,13 +176,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.0-nullsafety.2"
-  dependencies:
-    dependency: "direct main"
-    description:
-      path: "../dependencies"
-      relative: true
-    source: path
-    version: "0.0.1"
   dio:
     dependency: transitive
     description:
@@ -595,6 +581,24 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1+1"
+  movie_app_core:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "81577e84f09cfa6768a9d53c730d14d98b319263"
+      url: "https://github.com/Bwolfs2/movie_app_core.git"
+    source: git
+    version: "0.0.1"
+  movie_app_dependencies:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: d97de5ffe9439ed63012837c6ea56528529998a1
+      url: "https://github.com/Bwolfs2/movie_app_dependencies.git"
+    source: git
+    version: "0.0.1"
   network_image_mock:
     dependency: "direct dev"
     description:
