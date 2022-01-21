@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class CustomErrorWidget extends StatelessWidget {
   final String? message;

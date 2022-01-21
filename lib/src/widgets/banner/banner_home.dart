@@ -3,7 +3,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class BannerHome extends StatelessWidget {
   final Function(int index, CarouselPageChangedReason reason) onPageChanged;

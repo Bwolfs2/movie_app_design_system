@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class NoInternetWidget extends StatelessWidget {
   final String message;

@@ -2,7 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 
 import 'package:flutter/material.dart';
 
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class ArcBannerImage extends StatelessWidget {
   ArcBannerImage(this.imageUrl);

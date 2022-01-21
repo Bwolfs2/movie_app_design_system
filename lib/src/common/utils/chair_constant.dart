@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class ChairConstant {
   static Widget grey = const GreyChair();

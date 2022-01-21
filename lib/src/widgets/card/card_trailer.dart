@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
-import '../../../coffsy_design_system.dart';
+import '../../../movie_app_design_system.dart';
 
 class CardTrailer extends StatefulWidget {
   final String title, youtube;
